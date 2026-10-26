@@ -5,4 +5,8 @@ The activations of the eight hidden-layer neurons were extracted and analyzed ac
 ![alt text](image.png)
 Shows the activations of each neuron for all 16 inputs.
 
+REFERENCE :
+https://www.anthropic.com/research/tracing-thoughts-language-model
+
+
 BTW my favorite sportperson is Lionel Messi :)
