@@ -9,4 +9,4 @@ REFERENCE :
 https://www.anthropic.com/research/tracing-thoughts-language-model
 
 
-BTW my favorite sportperson is Lionel Messi :)
+BTW my favorite sportsperson is Lionel Messi :)
